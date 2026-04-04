@@ -1,0 +1,16 @@
+{
+  "schoolName": "Seven Star Pre Primary School",
+  "contact": "8369296915",
+  "address": "Mahadev Ridhi Siddhi Complex, Building No.02 Kasheli, Behind Divine School",
+  "programs": ["Play Group", "Nursery", "Junior KG", "Senior KG"],
+  "features": ["Personal Attention", "Qualified Staff", "Logical & Motor Skills", "Safe & Joyful Environment"],
+  "brandColors": {
+    "primary": "#1e40af",
+    "secondary": "#dc2626",
+    "accent": "#fbbf24",
+    "playGroup": "#2563eb",
+    "nursery": "#ec4899",
+    "juniorKG": "#16a34a",
+    "seniorKG": "#ff9900"
+  }
+}
