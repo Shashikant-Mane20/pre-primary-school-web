@@ -34,7 +34,7 @@ export default function Contact() {
                 <div className="text-blue-600 text-xl md:text-2xl flex-shrink-0">✉️</div>
                 <div>
                   <h4 className="font-semibold text-blue-900 text-sm md:text-base">Email</h4>
-                  <p className="text-gray-600 text-xs md:text-sm">info@sevenstarschool.com</p>
+                  <p className="text-gray-600 text-xs md:text-sm">schoolofsevenstar@gmail.com</p>
                 </div>
               </div>
 
@@ -42,7 +42,7 @@ export default function Contact() {
                 <div className="text-blue-600 text-xl md:text-2xl flex-shrink-0">🕐</div>
                 <div>
                   <h4 className="font-semibold text-blue-900 text-sm md:text-base">Hours</h4>
-                  <p className="text-gray-600 text-xs md:text-sm">Mon - Fri: 8:00 AM - 4:00 PM</p>
+                  <p className="text-gray-600 text-xs md:text-sm">Mon - Fri: 8:00 AM - 6:00 PM</p>
                 </div>
               </div>
             </div>

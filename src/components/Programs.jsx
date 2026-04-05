@@ -2,28 +2,28 @@ export default function Programs() {
   const programs = [
     {
       name: 'Play Group',
-      age: '1.5 - 2.5 Years',
+      age: '2 - 3 Years',
       description: 'Exploration through play and sensory activities',
       icon: '🎨',
       color: 'from-blue-400 to-blue-500'
     },
     {
       name: 'Nursery',
-      age: '2.5 - 3.5 Years',
+      age: '3 - 4 Years',
       description: 'Foundational skills and social interaction',
       icon: '🌟',
       color: 'from-pink-400 to-pink-500'
     },
     {
       name: 'Junior KG',
-      age: '3.5 - 4.5 Years',
+      age: '4 - 5 Years',
       description: 'Letters, numbers, and creative expression',
       icon: '📖',
       color: 'from-green-400 to-green-500'
     },
     {
       name: 'Senior KG',
-      age: '4.5 - 5.5 Years',
+      age: '5 - 6 Years',
       description: 'Preparation for school readiness',
       icon: '🎓',
       color: 'from-orange-400 to-orange-500'

@@ -11,8 +11,8 @@ export default function Hero() {
           {/* Right Side - Text Content */}
           <div className="text-center md:text-left order-1 md:order-2">
             <div className="mb-6 md:mb-8">
-              <img src="/images/logo.jpeg" alt="Seven Star Logo" className="h-16 md:h-20 w-16 md:w-20 mx-auto md:mx-0 mb-3 md:mb-4" />
-              <h1 className="text-2xl md:text-5xl font-bold text-blue-900 mb-2">Seven Star Pre Primary School</h1>
+              <img src="/images/logo.jpeg" alt="Seven Star Logo" className="h-24 md:h-32 w-24 md:w-32 mx-auto md:mx-0 mb-3 md:mb-4" />
+              <h1 className="text-2xl md:text-5xl font-bold text-blue-900 mb-2">Seven Star Pre Primary School, Kasheli</h1>
               <p className="text-lg md:text-xl text-blue-600 font-semibold mb-4">Nurturing Young Minds</p>
             </div>
 

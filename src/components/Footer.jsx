@@ -1,3 +1,5 @@
+import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa'
+
 export default function Footer() {
   const currentYear = new Date().getFullYear()
 
@@ -33,9 +35,18 @@ export default function Footer() {
           <div>
             <h4 className="font-bold text-base md:text-lg mb-3 md:mb-4">Follow Us</h4>
             <div className="flex space-x-3 md:space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white text-xl md:text-2xl">👍</a>
-              <a href="#" className="text-gray-400 hover:text-white text-xl md:text-2xl">🐦</a>
-              <a href="#" className="text-gray-400 hover:text-white text-xl md:text-2xl">📷</a>
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition duration-300 text-xl md:text-2xl">
+                <FaFacebook />
+              </a>
+              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-300 transition duration-300 text-xl md:text-2xl">
+                <FaTwitter />
+              </a>
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-pink-400 transition duration-300 text-xl md:text-2xl">
+                <FaInstagram />
+              </a>
+              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500 transition duration-300 text-xl md:text-2xl">
+                <FaLinkedin />
+              </a>
             </div>
           </div>
         </div>
