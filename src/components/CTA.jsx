@@ -21,7 +21,7 @@ export default function CTA() {
         </div>
 
         <p className="mt-6 md:mt-8 text-base md:text-lg opacity-75">
-          ⏰ Monday - Friday: 8:00 AM - 4:00 PM
+          ⏰ Monday - Friday: 8:00 AM - 6:00 PM
         </p>
       </div>
     </section>
