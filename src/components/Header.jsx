@@ -24,6 +24,7 @@ export default function Header() {
           <li><a href="#home" className="text-blue-900 hover:text-blue-600 font-medium">Home</a></li>
           <li><a href="#about" className="text-blue-900 hover:text-blue-600 font-medium">About</a></li>
           <li><a href="#programs" className="text-blue-900 hover:text-blue-600 font-medium">Programs</a></li>
+          <li><a href="#gallery" className="text-blue-900 hover:text-blue-600 font-medium">Gallery</a></li>
           <li><a href="#contact" className="text-blue-900 hover:text-blue-600 font-medium">Contact</a></li>
         </ul>
       </nav>
