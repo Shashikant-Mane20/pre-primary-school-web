@@ -87,10 +87,9 @@ npm run preview
 
 ## Technologies Used
 
-- React 18
+- React 19
 - Vite 5
 - Tailwind CSS 3
-- JavaScript (not TypeScript)
 
 ## License
 
